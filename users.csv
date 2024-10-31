@@ -1,0 +1,449 @@
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
+cassidoo,Cassidy Williams,GITHUB,"Chicago, IL",,false,Making memes and dreams... and software,165,13382,102,2012-02-20T16:36:23Z
+felangel,Felix Angelov,SHOREBIRDTECH,Chicago,felangelov@gmail.com,false,"software engineer by day, software engineer by night.",125,8679,67,2014-09-22T02:35:58Z
+dabeaz,David Beazley,"DABEAZ, LLC",Chicago,dave@dabeaz.com,false,"Author of the Python Essential Reference (Addison-Wesley), Python Cookbook (O'Reilly), and former computer science professor. Come take a class! ",34,5181,0,2010-08-01T15:22:48Z
+sstephenson,Sam Stephenson,,Chicago,sam@sls.name,false,,24,3761,0,2008-03-08T22:17:24Z
+mattgodbolt,Matt Godbolt,AQUATIC CAPITAL MANAGEMENT,"Chicago, IL",matt@godbolt.org,false,"Compiler Explorer and jsbeeb creator, ex-Google, ex-games, now trading chap.",84,3398,97,2011-02-23T13:46:48Z
+logankilpatrick,Logan Kilpatrick ,GOOGLE,Chicago | SF Bay,,false,"@Google AI Studio & the Gemini API, President @NumFOCUS",229,2732,259,2018-01-18T19:36:30Z
+khan4019,That JS Dude,NIELSEN,Chicago,khan4019@gmail.com,true,"A curious JavaScript developer, a frequent speaker and a tube light. On his enjoyable day he eats cauliflower and pulls his hair to solve programming problem.",104,2668,0,2012-06-13T23:23:23Z
+adashofdata,Alice Zhao,,"Chicago, IL",,false,"Data Scientist. Author of SQL Pocket Guide, 4th Edition (O'Reilly). Instructor at Northwestern University, O'Reilly and Maven Analytics / Udemy.",6,2452,0,2017-07-20T16:27:23Z
+djspiewak,Daniel Spiewak,NVIDIA,"Chicago, IL",djspiewak@gmail.com,false,"I write code, read papers, and think thoughts. Broadly, I'm interested in: type theory, parser theory, functional abstractions, data structures, performance.",143,2303,0,2008-02-24T18:54:37Z
+eddelbuettel,Dirk Eddelbuettel,,"Chicago, IL, USA",edd@debian.org,true,,471,1848,44,2011-03-16T13:44:54Z
+natemoo-re,Nate Moore,,"Chicago, IL",,false,Designer-turned-developer building open source tooling to empower fellow creatives,242,1742,87,2014-03-31T17:15:24Z
+lexi-lambda,Alexis King,,"Chicago, IL",,false,,147,1680,1,2011-04-29T23:25:59Z
+neodigm,Scott C. Krause,INDEPENDENT,Chicago ✈️ the Future,,true,I design high-fidelity prototypes then build interactive experiences. I craft self-documenting and future-proof JavaScript ⚡ Web Components ⚡ WASM,411,1447,5927,2012-12-30T05:22:47Z
+rentzsch,Wolf Rentzsch,,Chicago,,false,,148,1212,2,2008-03-13T04:23:19Z
+HFTrader,Henrique Bucher,VITORIAN LLC,"Chicago, IL",,true,"Consulting and development C++/FPGA/GPU. Focus on Ultra Low Latency Trading. Crypto. Ex-Citadel, ex-JP Morgan. Brazilian, BSc/MSc/PhD in Engineering.",113,1209,6,2015-03-23T22:47:11Z
+JimLiu,Jim Liu 宝玉,,"Chicago, IL",junminliu@gmail.com,true,,205,1195,134,2011-03-03T09:18:48Z
+jcs,joshua stein,PUSHOVERAPP,"chicago, illinois",jcs@jcs.org,false,"Hello, cyberpals",98,1084,16,2008-05-10T17:03:32Z
+jbranchaud,Josh Branchaud,"INDEPENDENT, WORK WITH ME --> VISUALMODE.DEV","Chicago, IL",jbranchaud@gmail.com,true,Independent Software Consultant and Developer at VisualMode. TS • React • Rails • Postgres,171,1080,115,2011-03-28T00:17:53Z
+basecamp,Basecamp,,"Chicago, IL",support@basecamp.com,false,HEY! It's in Basecamp!,193,989,0,2008-06-09T20:00:38Z
+SciSharp,SciSharp STACK,,"Chicago, US",scisharpstack@gmail.com,false,"A .NET based Open Source Ecosystem for Data Science, Machine Learning and AI.",66,961,0,2018-11-13T02:23:44Z
+joshdholtz,Josh Holtz,REVENUECAT,"Chicago, IL (Previously Milwaukee, WI)",me@joshholtz.com,false,Lead maintainer of @fastlane 🚀 SDKs at RevenueCat 💵😻,214,927,6,2010-09-16T01:26:03Z
+johnpolacek,John Polacek,HOWL,Chicago,,false,Senior Software Engineer at VEG. Based in Chicago. johnpolacek.com,127,862,1,2010-01-10T14:41:10Z
+davidteather,David Teather,CROWDSTRIKE,"Chicago, IL",,true,I like open source projects and making educational content | SWE @CrowdStrike ,59,847,107,2017-11-30T22:36:19Z
+jeremyckahn,Jeremy Kahn,,"Chicago, IL",me@jeremyckahn.com,false,I fight for the users! 💪,155,837,536,2010-08-16T19:18:08Z
+dchelimsky,David Chelimsky,RETIRED,"Chicago, IL, USA",,false,,107,813,7,2008-02-27T14:51:22Z
+coreyhaines,Corey Haines,,"chicago, il",coreyhaines@gmail.com,true,Magical!,155,812,16,2008-03-27T13:12:53Z
+rharter,Ryan Harter,,Chicago,,false,,215,786,4,2011-12-31T18:08:39Z
+harperreed,Harper Reed,"HARPER RULES, LLC","Chicago, Il",harper@modest.com,false,A normal person doing normal things.,182,782,148,2008-07-26T18:45:02Z
+sksamuel,Sam,GRINDR,"Chicago, IL",,false,"Bit of this, bit of that.",22,782,21,2011-04-21T12:31:28Z
+leeoniya,Leon Sorokin,GRAFANA,"Chicago, IL",leeoniya@gmail.com,false,"""All problems in computer science can be solved by another level of abstraction ...except for the problem of too many levels of abstraction.""",175,776,348,2008-12-30T00:27:29Z
+hwayne,Hillel Wayne,,Chicago,,false,,47,760,21,2012-10-26T21:51:04Z
+CoralineAda,Coraline Ada Ehmke,ETHICALSOURCE,"Chicago, IL",,false,"Internationally recognized tech ethicist, activist, & software engineer. Creator of Contributor Covenant & Hippocratic License. Ruby Hero. FOSS troublemaker.",136,755,5,2008-08-28T02:37:32Z
+sean-codes,Sean Codes,,"Chicago, IL",sean_codes@outlook.com,false,Hi! Web Apps and 2D Games :],36,708,25,2016-09-01T13:41:42Z
+gjreda,Greg Reda,INSTACART,"Chicago, IL",,false,,42,684,118,2011-07-18T03:57:34Z
+jameslamb,James Lamb,NVIDIA,"Chicago, IL",jaylamb20@gmail.com,false,(he/him) RAPIDS packaging at NVIDIA. LightGBM maintainer. Economist at heart. ,88,669,255,2014-05-17T05:32:21Z
+djsime1,David,,"Chicago, IL",,false,"Fluent in Lua, Java, and Python; certified nerd.
+I put too much effort into README's and frequently overdose on colorful yet useless badges.",41,666,13,2014-08-21T22:15:54Z
+dabeaz-course,Dabeaz LLC,,Chicago,dabeaz@dabeaz.com,false,Courses by David Beazley,2,638,0,2020-05-13T16:47:19Z
+lorenanicole,Lorena Mesa,GITHUB,"Chicago, Illinois",me@lorenamesa.com,false,"Political analyst turned coder, Lorena Mesa is a #Latinx data engineer, ex-@github, Former Chair of the @python Software Foundation, @PyLadiesChicago organizer.",256,618,11,2013-05-30T19:15:17Z
+LadyKerr,Kedasha Kerr,DEVELOPER ADVOCATE,"Chicago, IL",,false,Developer Advocate @github and Technical Content Creator 🎥 Catch my next video on IG @itsthatladydev ✨,181,616,69,2019-01-30T17:25:04Z
+dannguyen,Dan Nguyen,"FREELANCER, DATA WRANGLER/ENGINEER",Chicago,dansonguyen@gmail.com,true,"My name is Dan Nguyen and you can find me on Github as dannguyen & @dancow on Twitter. My interests are investigative journalism, data wrangling, and naming thi",374,612,329,2009-08-31T15:34:59Z
+awatson1978,Abigail Watson,"SYMPTOMATIC, LLC",Chicago - Evansville,awatson1978@gmail.com,false,"Bioinformaticist.  Venture Altruist.  Biohacker.   Burner.  Xinnial.  Healthcare worker.  
+",219,590,7,2011-03-17T20:50:48Z
+trek,Trek Glowacki,,"Chicago, IL",,false,"I helped start @workantile, couponed at @groupon, usually helping some startup get acquired. @emberjs core team emeritus. @paulirish once called me a hero",26,581,0,2008-05-08T22:08:55Z
+Valve,,FINGERPRINT.COM,"Chicago, USA",,false,I'm a Ruby on Rails developer but also like golang. Love cycling and reading.,61,575,30,2008-10-03T08:52:38Z
+catarak,Cassie Tarakajian,"PREV @CYCLING74, @PROCESSING","Chicago, IL",,false,all technology is political,72,562,14,2013-11-29T03:02:52Z
+scopatz,Anthony Scopatz,,"Chicago, IL",scopatz@gmail.com,false,,396,550,269,2010-07-01T22:20:46Z
+ZeweiChu,Zewei Chu,GOOGLE,Chicago,zeweichu@gmail.com,true,"Metaverse, Blockchain, AI, NLP",68,550,287,2012-07-23T12:43:49Z
+peterpme,Peter Piekarczyk,CORAL-XYZ,"Chicago, IL",,false,Building Backpack 🎒 ,217,545,253,2011-11-22T02:54:04Z
+bitsondatadev,"Brian ""bits"" Olsen",TRINODB @APACHE,"Chicago, United States",bits@bitsondata.dev,false,,46,542,11909,2014-08-25T16:49:19Z
+estrattonbailey,Eric Bailey,BLUESKY-SOCIAL,Chicago,,false,Internet person,179,518,452,2013-06-18T21:05:38Z
+phinze,Paul Hinze,,"Chicago, IL",,false,,155,517,35,2008-12-01T14:28:06Z
+lvh,lvh,LATACORA,"Chicago, IL",_@lvh.io,false,"Principal, Latacora. We build security teams.",188,515,0,2009-06-22T14:36:57Z
+jorgecoca,Jorge Coca,VGVENTURES,Chicago,,false,"Head of Engineering - @VGVentures. 
+Google Developer Experter - Flutter
+Ex core mobile @bmw-tech. 
+Organizer of @ChicagoFlutter. ",9,512,225,2013-01-10T18:05:45Z
+bgardner,Brian Gardner,,"Chicago, IL",brian.gardner@wpengine.com,false,Designer. #WordPress expert.,2,494,262,2010-11-17T23:06:34Z
+adriangb,Adrian Garcia Badaracco,,"Chicago, IL",,false,,177,493,330,2012-05-19T15:47:00Z
+Templarian,Austin Andrews,,"Chicago, IL",,false,Maintainer of Material Design Icons,69,492,8,2010-07-20T18:37:13Z
+jamesturk,James Turk,UNIVERSITY OF CHICAGO,"Chicago, IL",dev@jpt.sh,true,,31,482,83,2008-04-21T04:48:06Z
+an0,Ling Wang,,Chicago,,false,,27,481,3,2009-07-02T09:33:10Z
+kierisi,Jesse Mostipak,,"Chicago, IL",,false,,18,469,56,2016-10-26T19:58:51Z
+derekeder,Derek Eder,"DATAMADE, CHI HACK NIGHT","Chicago, IL",derek@derekeder.com,false,"Partner at @datamade. Organizer of @chihacknight. I use data, build tools, and organize people in Chicago to democratize power.",45,467,137,2011-07-16T14:15:04Z
+rachelbaker,Rachel Baker,STITCH FIX,"Chicago, IL",rachel@rachelbaker.me,false,"Director of Engineering @stitchfix. Prev. Head of Engineering + Data Wirecutter (part of @nytimes). @WordPress Core Committer. 
+She/her",29,462,230,2011-08-14T21:30:31Z
+iSoron,Alinson S. Xavier,ARGONNE NATIONAL LABORATORY,"Chicago, IL",git@axavier.org,true,,14,462,0,2013-06-14T16:39:48Z
+kpdecker,Kevin Decker,,"Chicago, IL",kpdecker@gmail.com,true,,130,460,38,2010-02-04T06:54:41Z
+themeteorchef,The Meteor Chef,,"Chicago, IL",business@themeteorchef.com,true,"Sandwiches, Meteor, magic.",98,460,33,2014-07-16T18:16:31Z
+gk5885,Gregory Kick,GOOGLE,"Chicago, IL",,false,,7,449,2,2012-09-04T17:55:09Z
+austinsonger,"Austin Songer,MIS,CEH,ESCA,Project+ (Navy Veteran)",,"Chicago, Illinois",a.songer@protonmail.com,true,"Governance, Risk, and Compliance Lead
+
+",840,448,1409,2017-03-24T14:43:10Z
+bwya77,Bradley Wyatt,NTIVA,Chicago,brad@thelazyadministrator.com,true,Microsoft MVP | The Lazy Administrator | DevOps Automation Engineer at Ntiva,34,444,28,2014-01-02T03:41:12Z
+ELLIOTTCABLE,,AHREFS,"Chicago, IL",github-public@from.ec,true,"{PL,Q}T. Accidental creator of @Paws.",243,442,826,2008-02-13T03:27:01Z
+tqbf,"Thomas <b>H. Ptacek""",KETCHUP SALT,"Chicago, IL",thomas@sockpuppet.org,false,,30,439,1,2008-06-11T23:59:12Z
+vehbiu,Vehbi,,"Chicago, Illinois",,true,,10,435,0,2023-02-22T15:56:12Z
+mjskay,Matthew Kay,NORTHWESTERN UNIVERSITY,Chicago,mjskay@northwestern.edu,false,"Associate Professor at Northwestern; works on human-computer interaction, information visualization, communicating uncertainty",59,434,1,2014-01-08T01:48:16Z
+mapmeld,Nick Doiron,,"Chicago, IL",ndoiron@mapmeld.com,true,Full-stack engineer and open source in ML / NLP,274,428,11,2011-03-01T03:09:47Z
+carolynvs,Carolyn Van Slyck,AZURE,"Chicago, IL",me@carolynvanslyck.com,false,Professional Yak Shaver,273,411,2,2012-01-22T21:34:25Z
+DashBarkHuss,Dashiell Bark-Huss,WISHTENDER,Chicago,dangerousdashie@gmail.com,false,Self taught programmer. Building WishTender. Lucid dream enthusiast.,76,408,12,2015-06-19T16:10:41Z
+zigurous,Zigurous,,"Chicago, IL",support@zigurous.com,false,Zigurous is an indie game developer.,36,405,0,2016-01-17T01:13:04Z
+brandonleegit,Brandon Lee,VIRTUALIZATIONHOWTO,Chicago,,false,Prolific Virtualization blogger and IT Technologist specializing in virtualization and cloud,16,400,0,2016-09-12T16:55:01Z
+rsese,Robert Sese,GITHUB,"Chicago, IL",,false,:horse: :pizza:,44,395,144,2011-04-17T01:44:30Z
+boonebgorges,Boone Gorges,HTTPS://HARDG.COM,"Chicago, IL",,false,Emeritus committer for @WordPress; Emeritus lead for @buddypress; WordPress consultant,131,393,30,2010-04-18T13:36:23Z
+jarry-xiao,Jarry Xiao,,Chicago,,false,blockchain x quant finance,23,386,10,2020-02-15T18:05:16Z
+the-raspberry-pi-guy,Matt Timmons-Brown (Raspberry Pi Guy),JUMP TRADING,Chicago,theraspberrypiguy@gmail.com,true,"SWE @ Jump Trading | CS Masters @ UPenn | Thouron Scholar | Ex-Amazon | Ex-CompSci @ Edinburgh | Author of ""Learn Robotics w. Raspberry Pi"", link ↓↓↓",31,384,95,2013-09-29T15:30:39Z
+saforem2,Sam Foreman,ARGONNE-LCF,"Chicago, IL",saforem2@gmail.com,true,"AI 4 Science @argonne-lcf 
+https://samforeman.me
+",188,377,685,2013-08-15T02:33:02Z
+ZWMiller,Zach Miller,,"Chicago, IL",,false,"Machine Learning Engineer. Nuclear Physics Ph.D. fluent with Python, SQL, and C++.",43,376,5,2015-07-24T18:13:27Z
+matagus,Matías Agustín Méndez,,"Chicago, IL ",,true,I miss the old Github feed / activity stream. @matorral-project | @django-planet #django #python #rust,48,370,3468,2009-02-27T10:45:55Z
+skwp,Yan Pritzker,SWANBITCOIN.COM,Chicago,yan@pritzker.ws,false,"Co-founder swan.com @swan-bitcoin, author inventingbitcoin.com, Former CTO @reverbdotcom. Contact at https://twitter.com/skwp",60,362,53,2008-02-29T17:02:06Z
+stevespringett,Steve Springett,SERVICENOW,Chicago,,false,"I build stuff, I break stuff, I develop stuff to protect stuff.
+
+Creator of @DependencyTrack. Chair of @CycloneDX and @Ecma-TC54. Core team of @package-url",30,361,2,2013-03-15T22:01:22Z
+braverock,Brian G. Peterson,,"Chicago, IL",brian@braverock.com,false,,12,360,6,2012-04-22T17:32:42Z
+jenmyers,Jen Myers,,"Chicago, IL",,false,I'm a swell gal.,18,360,0,2011-03-10T16:05:12Z
+gar1t,Garrett Smith,,Chicago,,false,,213,360,4,2010-01-18T21:49:39Z
+MarkTechson,Mark Thompson,ANGULAR,"Chicago, IL",,false,"A developer who loves coding, teaching and pancakes.",97,360,1,2012-10-14T01:17:42Z
+Tedko,Suji Yan,DIMENSIONDEV,Tokyo/SF/Chicago/NYC/Shanghai,suji.yan@dimension.im,false,"Founder/CEO of Dimension.im/Mask Network
+",56,357,84,2014-02-15T03:06:40Z
+sabre1041,Andrew Block,RED HAT,Chicago,andy.block@gmail.com,false,Distinguished Architect at Red Hat,463,352,24,2011-11-13T04:27:23Z
+loganmartintran,Logan Tran,,"Chicago, IL",,false,,14,350,14,2016-08-17T00:08:46Z
+abedra,Aaron Bedra,DRW,"Chicago, IL",aaron@aaronbedra.com,true,,77,349,2,2008-03-03T23:46:03Z
+trevorturk,Trevor Turk,,Chicago,trevorturk@gmail.com,true,"Programming Hello Weather. Previously Impactive, IFTTT, Clearbit, and Basecamp.",79,344,189,2008-02-19T03:23:56Z
+justinbmeyer,Justin Meyer,BITOVI,Chicago,justinbmeyer@gmail.com,false,"Co-founder @bitovi.  Contributor to @donejs, @canjs, @stealjs and others.",26,342,29,2009-04-28T03:33:52Z
+RandomFractals,Taras Novak,"RANDOM FRACTALS, INC.","Chicago, IL, USA",,true,We map 🗺️ & graph 📈 data  🈸,110,341,0,2011-03-08T02:39:42Z
+srobbin,Scott Robbin,ROBBIN & CO.,Chicago,scott@robbin.co,false,,46,339,22,2009-01-07T01:44:50Z
+coolbeet,Suyu Zhang,CHOWBUS,Chicago,suyu_zhang@hotmail.com,false,,8,338,2,2012-07-30T02:43:33Z
+timrwood,Tim Wood,,"Chicago, IL",,false,,42,337,13,2011-03-01T02:45:07Z
+shayhowe,Shay Howe,LEADHONESTLY,"Chicago, IL",,true,"CMO at @ActiveCampaign, Co-founder at @leadhonestly, Partner at @ProtaVentures, Co-Founder of @ChicagoCamps, Product Designer, Engineer",14,334,1,2010-12-07T17:10:24Z
+ksobon,Konrad Sobon,ARCHI-LAB,Chicago,sobon.konrad@gmail.com,false,,49,332,5,2010-12-19T20:57:22Z
+hugs,Jason Huggins,,"Chicago, Illinois",jrhuggins@gmail.com,false,,74,327,1,2008-04-26T04:40:50Z
+karllhughes,Karl L. Hughes,DRAFTDEV,"Chicago, IL",khughes.me@gmail.com,false,Former startup CTO turned writer. Creating technical marketing content as the founder of Draft.dev.,72,326,35,2011-10-05T02:11:06Z
+Oceania2018,Haiping,,"Chicago, US",haiping008@gmail.com,true,Bug fixing...,60,326,118,2012-05-04T09:54:33Z
+emilyriederer,Emily Riederer,,"Chicago, IL",emilyriederer@gmail.com,true,,26,322,19,2016-06-07T11:48:36Z
+reiddraper,Reid Draper,FIGMA,"Chicago, IL",reiddraper@gmail.com,false,mayonnaise connoisseur,86,315,62,2010-02-09T16:04:56Z
+sorentwo,Parker Selbert,SOREN,"Chicago, IL",,false,,55,314,3,2010-05-07T22:41:11Z
+nickvourd,Nikos Vourdas,EY US,"Chicago, IL",,false,Just your friendly neighborhood red Power Ranger:~# OSWE | OSEP | OSCP | OSWP | CRTL | CRTO | OASP,16,312,153,2017-10-17T10:45:01Z
+jjhelmus,Jonathan J. Helmus,ANACONDA,"Chicago, IL",jjhelmus@gmail.com,false,,424,310,22,2011-09-14T13:32:35Z
+ahinchman1,Amanda Hinchman-Dominguez,,"Chicago, IL",,true,"Kotlin GDE and Android engineer. Co-organizer for CKUG.
+
+Co-author of ""Programming Android with Kotlin: Achieving Structured Concurrency with Coroutines""",56,306,26,2014-03-11T10:10:24Z
+XavierXiao,Xavier,UNIVERSITY OF CHICAGO,"Chicago, IL",,false,,16,303,1,2015-09-15T23:43:17Z
+coddingtonbear,Adam Coddington,AIRSHIP,"Chicago, Illinois, USA",me@adamcoddington.net,false,Not affiliated with non-🏳️‍🌈 types of bears.,218,301,199,2010-12-17T19:09:29Z
+stevenwanderski,Steven Wanderski,CONTRACTOR,"Chicago, IL",,true,,79,300,2,2010-11-09T00:32:00Z
+JoeGermuska,Joe Germuska,NORTHWESTERN UNIVERSITY KNIGHT LAB,"Chicago, IL",joe@germuska.com,false,,101,298,19,2009-01-13T18:28:43Z
+tswast,Tim Sweña (Swast),GOOGLE,"Chicago, IL",swast@google.com,false,"Data Engineer in Professional Services @GoogleCloudPlatform. I also hack on personal projects, mostly related to math & pixels.",154,295,75,2010-04-19T18:53:47Z
+MelSumner,Melanie Sumner,HASHICORP,"Chicago, IL",melaniersumner@gmail.com,false,"Likes: continuous accessibility, building for the web, strategic planning, empowering others to succeed.",310,293,168,2013-06-01T13:42:33Z
+greensock,GreenSock,,Chicago,,false,,4,289,0,2012-09-20T14:57:30Z
+ExplorerFreda,Freda Shi,TOYOTA TECHNOLOGICAL INSTITUTE AT CHICAGO; UNIVERSITY OF WATERLOO,"Chicago, IL",freda@ttic.edu,false,Assistant Professor at the University of Waterloo with @compling-wat & @waterloo-nlp.,31,288,37,2016-01-17T13:44:19Z
+alysivji,Aly Sivji,,"Chicago, IL",,false,Python. HealthIT. Data.,134,287,163,2013-05-07T21:04:31Z
+paulromano,Paul Romano,ARGONNE NATIONAL LABORATORY,"Chicago, IL",promano@anl.gov,false,,89,287,113,2011-04-21T05:43:12Z
+tedivm,Robert Hafner,COMCAST,"Chicago, IL",tedivm@tedivm.com,false,"Lots of personal projects as well as @gitconsensus, @tedious, @LeagueOfAutomatedNations, and @screepers.",176,284,162,2009-09-01T00:56:22Z
+rguthrie3,Robert,CITADEL LLC,"Chicago, IL",,false,"Software engineer at Citadel LLC and Georgia Tech grad.  Primarily interested in natural language processing, finance, and high-performance computing.",12,281,8,2014-03-05T14:11:26Z
+FreedomWriter,Natalie Davis,,Chicago,,true,"Frontend Engineer, share your screen (or I'll share mine), let's figure it out!",143,280,54,2019-05-08T03:30:46Z
+nbriz,Nick Briz,HTTPS://NETIZEN.ORG,"Chicago, IL",nickbriz@protonmail.com,false,new-media artist/educator/organizer >> focused on digital culture + digital literacy,65,279,42,2012-10-07T18:39:07Z
+CodePlatoon,Code Platoon,,Chicago,,false,Turning veterans and military spouses into software developers.,14,278,0,2015-10-30T18:39:53Z
+mrkurt,Kurt Mackey,,"Chicago, IL",mrkurt@gmail.com,false,,89,278,17,2008-04-17T18:10:49Z
+kadamwhite,K Adam White,HUMANMADE,"NYC, Raleigh, Chicago, Osaka",,false,"Principal Engineer at Human Made, WordPress committer and former REST API maintainer, artist, DJ, and artist technician / spouse of Emily Garfield",101,273,23,2010-10-16T18:38:43Z
+conorpp,Conor Patrick,,"Chicago, IL",,false,,124,273,64,2013-03-22T14:50:11Z
+Daniel-McCarthy,Dan McCarthy,,Chicago,,true,,42,272,129,2013-07-07T05:17:39Z
+msfrisbie, Matt Frisbie,,"Chicago, IL",classvsoftware@gmail.com,true,"Software engineer, bestselling author",56,270,0,2011-12-04T17:42:52Z
+bartosz-lipinski,B,CUBEXCH,"Chicago, US",,false,,33,270,13,2010-05-04T09:43:38Z
+ivelasq,Isabella Velásquez,,"Chicago, IL",ivelasq@gmail.com,false,%>% dreams,58,262,51,2015-05-04T14:40:14Z
+joshbirk,Joshua Birk,SALESFORCE.COM,"Chicago, IL",joshua.birk@salesforce.com,false,,74,259,54,2010-11-24T18:43:03Z
+pushcx,Peter Bhat Harkins,LOBSTERS,"Chicago, IL, USA",,false,"Programmer by day, programmer by night.",66,254,8,2008-04-10T20:13:29Z
+jackdoyle,Jack Doyle,GREENSOCK,Chicago,jack@greensock.com,false,"Author of GSAP, owner of @greensock, lover of animation",3,251,0,2012-09-21T00:08:41Z
+brandonwillard,Brandon T. Willard,.TXT,"Chicago, IL",,true,applied math/stats person,154,251,93,2011-08-10T14:19:12Z
+rrag,Ragu Ramaswamy,,"Chicago, IL",ragunath.ramaswamy@gmail.com,true,,21,250,38,2015-01-25T03:05:43Z
+drewolson,Drew Olson,,"Chicago, IL",,false,software is fun,38,249,21,2008-03-21T16:01:37Z
+ionelabrinza,Nicole Brinza,,"Chicago, USA",,false,:),45,247,384,2021-10-28T16:05:46Z
+joemaddalone,Joe Maddalone,,"Chicago, IL",,false,"Software Engineer, Instructor at egghead.io, mentor/mentee, geekfest organizer",68,246,1,2010-12-01T16:22:57Z
+jamigibbs,Jami Gibbs,ADHOCTEAM,Chicago,jami.gibbs@adhocteam.us,false,,73,240,40,2011-06-24T04:17:20Z
+mager,Mager,UBER,Chicago,andrew.mager@gmail.com,true,"Developer Experience @Uber. Lover of open source, web3, Go, React, databases, systems. Building Geotory on the weekend.",90,239,463,2008-07-21T21:49:48Z
+mikehostetler,Mike Hostetler,EPIC CREATIVE,"Chicago, IL",,false,"VP of Eng @carsdotcom, Leader, Entrepreneur, Technologist. Passionate about #RemoteWork #WorkOps #OSS #JavaScript #Crypto",157,238,68,2009-05-13T19:03:35Z
+mstruve,Molly Struve,NETFLIX,"Chicago, IL",mollylbs@gmail.com,false,Staff Site Reliability Engineer at Netflix,44,237,3,2012-06-04T00:17:32Z
+jberger,Joel Berger,,Chicago,,false,"Ph.D. in Physics, polyglot programmer (Perl, Python, Node, etc), @mojolicious core developer",187,234,66,2011-04-18T03:42:17Z
+brianboyer,Brian Boyer,,"Chicago, Illinois",,false,,12,233,17,2009-03-30T15:09:05Z
+mikewesthad,Michael Hadley,,Chicago,,false,"Developer, Artist & Educator
+–––
+Software Engineer at Replit",147,233,28,2011-10-16T19:28:53Z
+brasic,Carl Brasic,,"Chicago, IL",,false,,61,232,13,2011-03-18T14:39:19Z
+braintreeps,Braintree Open Source,BRAINTREE,"Chicago, IL",code@getbraintree.com,false,Tools for use by Braintree employees. These repositories receive no official support from Braintree.,47,232,7,2010-02-09T17:22:24Z
+k4rtik,Kartik Singhal,,"Chicago, IL",kartiksinghal@gmail.com,true,"Programming Languages, Quantum Computing, Systems, and more. In superposition with @qartik.",79,231,190,2010-08-24T07:50:15Z
+MarcosX,Marcos Brizeno,THOUGHTWORKS,"Chicago, IL",,true,,65,230,18,2011-06-17T12:17:24Z
+jordanorelli,Jordan Orelli,,"Chicago, IL",,false,"infra engineer on the discovery team at Whatnot.  
+
+My public git repos are now here:
+https://git.orel.li/jordan",84,229,132,2010-09-15T13:14:47Z
+FormerLurker,FormerLurker,,"Chicago, IL",,false,"I'm the creator of Octolapse, and hoping to create even more open source tools!  If you like what you see, consider becoming a sponsor.",13,228,12,2017-11-04T01:15:18Z
+syngenta-digital,Syngenta Digital,,"Chicago, Pune, Belo Horizonte",developer@syngenta-digital.com,false,Syngenta Digital Product Engineering,39,228,0,2020-05-18T06:22:20Z
+dremin,Sam Johnson,,Chicago,,false,"Current maintainer of Cairo Shell and RetroBar. I enjoy making other cool stuff, too!",39,227,1,2014-04-22T13:59:55Z
+samanthamichele7,Samantha Geitz,SAMANTHAMICHELE7,"Chicago, IL",samanthamichele7@gmail.com,false,,40,226,0,2012-06-23T00:23:14Z
+arsho,Ahmedur Rahman Shovon,PHD(CS) STUDENT AT UIC,"Chicago, Illinois",shovon.sylhet@gmail.com,true,Love to write code and enthusiast to develop software as well as have a deep interest to do research in computer science focusing on High-Performance Computing.,96,226,56,2013-09-15T20:15:57Z
+jdingel,Jonathan Dingel,UNIVERSITY OF CHICAGO,Chicago,,false,,8,225,57,2017-08-11T18:30:24Z
+keeleysam,Samuel Keeley,,San Francisco and Chicago,samuel@keeley.net,true,,72,225,1,2012-08-02T02:35:46Z
+tighten,Tighten,,Chicago,hello@tighten.co,false,,109,223,0,2013-07-30T17:00:40Z
+Athlon1600,,INTERNATIONALCODECOUNCIL,Chicago,,false,,30,222,1,2011-09-19T19:39:17Z
+rcalix1,Ricardo Calix,,Greater Chicago area,,false,,46,222,8,2013-10-07T22:05:24Z
+bf4,Benjamin Fleischer,GOOD,Chicago,,true,,380,221,457,2009-10-21T23:39:47Z
+johnwinans,John Winans,"SJ2 TECHNOLOGIES, LLC","West Chicago, IL",,false,Senior Engineer,84,220,3,2014-01-16T01:49:00Z
+ryan-haskell,Ryan Haskell,BRILLIANTORG,"Chicago, Illinois",,false,🌈  Building @elm-land ,204,220,103,2013-12-14T21:50:07Z
+Shawn-Shan,Shawn Shan,UNIVERSITY OF CHICAGO,"Chicago, IL",shawnshan@cs.uchicago.edu,false,"UChicago PhD Candidate; ML Security & Privacy
+",13,219,1,2017-01-22T03:58:56Z
+wesleywiser,Wesley Wiser,MICROSOFT,Chicago,wwiser@gmail.com,false,"@rust-lang Compiler Team Co-lead, Senior Software Engineer working on Rust @microsoft",43,219,9,2011-06-05T18:35:47Z
+farrukh90,Farrukh Sadykov,EVOLVECYBER LLC,Chicago,,false,,357,218,4,2016-07-15T04:21:15Z
+luisibanez,Luis Ibanez,"GOOGLE, INC.","Chicago, IL",luis.ibanez+github@gmail.com,false,"Works at Google as Senior Software Engineer in Chicago. Earned a PhD on medical imaging at University of Rennes 1, in Rennes France.",232,216,54,2010-04-05T22:47:41Z
+dhermes,Danny Hermes,,Greater Chicago Area,daniel.j.hermes@gmail.com,false,Software Engineer and PhD Mathematician,134,212,0,2010-12-13T04:50:22Z
+simonpcouch,Simon P. Couch,POSIT PBC (NÉE RSTUDIO),"Chicago, IL, USA",simonpatrickcouch@gmail.com,false,statistical software @posit-pbc,92,211,6,2018-01-23T23:47:08Z
+itsjafer,Jafer Haider,,"Chicago, IL",itsjafer@gmail.com,true,Software Engineer at Google,29,211,11,2015-05-27T16:23:37Z
+aekaplan,Adam Kaplan,ZAPIER,"Chicago, IL",,false,Product Designer at Zapier,7,211,35,2012-09-13T03:17:00Z
+tlamadon,Thibaut Lamadon,UNIVERSITY OF CHICAGO,"Chicago, IL, USA",,false,"Associate Professor in Economics at University of Chicago
+",57,209,44,2011-05-09T16:45:39Z
+seanchen1991,Sean Chen,INFORMALSYSTEMS,Chicago,seanchen11235@gmail.com,false,Developer advocate and Rust OSS contributor. Recurse Center alumni. Previously a computer science instructor.,196,209,29,2013-05-30T17:17:20Z
+gregwebs,Greg Weber,DIGITAL MINT,"Chicago, IL",,false,,135,204,1,2008-02-27T21:55:47Z
+Vadman97,Vadim Korolik,HIGHLIGHT,"Chicago, IL, USA",vadim@highlight.io,false,"CTO & Co-Founder @highlight.
+C.S. M.S. from USC.",24,203,75,2012-01-19T05:20:20Z
+luizaandrade,Luiza Andrade,DEVINNOVATIONLAB,"Chicago, IL",,false,Development research data nerd,42,202,49,2015-10-22T17:45:32Z
+noootown,Hung-I Chiu,NATIONAL CHIAO TUNG UNIVERSITY,"Chicago, IL",noootown@gmail.com,true,Coding,40,201,109,2014-08-31T11:38:41Z
+cdfuller,Cody Fuller,,"Chicago, Illinois",,true,That's my dog. We share this account. She is great at catching bugs,74,200,85,2012-09-09T10:10:45Z
+ReidCarlberg,ReidCarlberg,,"Chicago, IL",reid.carlberg@gmail.com,false,,67,200,8,2011-01-19T21:32:48Z
+fsadykov,Farkhod Sadykov,FUCHICORP,Chicago,,true,AWS | GCP | Helm | Terraform | Kubernetes | Python | Bash | Groovy ,62,198,1,2017-07-17T23:49:52Z
+chelseatroy,Chelsea Troy,MOZILLA,Chicago,,true,I write about code and folks seem to like it: chelseatroy.com,128,196,29,2013-10-22T06:31:47Z
+dkarter,Dorian Karter,,Greater Chicago Area,,false,"Staff Software Engineer at @pdq
+
+Primary stack: Elixir, TypeScript, React, React Native, Postgres & Kubernetes",231,195,434,2011-01-07T12:45:45Z
+masterysystems,Mastery Systems,,"Chicago, Champaign, Lake Forest (IL), Omaha, Minneapolis",,false,,0,194,0,2019-02-27T02:52:42Z
+yyolk,Joseph Chiocchi,Y O L K,"Chicago, Illinois",joe@yolk.cc,false,Generative Artist && Senior Software Engineer,617,193,457,2009-10-03T05:41:13Z
+eaton,Eaton,AUTOGRAM,Chicago,jeff@eaton.fyi,false,"Social justice advocate, content strategy ne'er-do-well, structured content enthusiast, anti-fascist.",95,193,23,2009-01-14T05:04:14Z
+zombor,Jeremy Bush,ACTIVECAMPAIGN,Chicago,contractfrombelow@gmail.com,false,,96,193,4,2009-12-21T14:54:09Z
+JSH32,Josh Rudnik,DEINDE FINANCIAL LLC,"Chicago, IL",,true,I write code sometimes,63,193,5,2019-06-13T16:04:07Z
+ricokahler,Rico Kahler,SANITY.IO,Chicago,hello@rico.codes,false,focusing on life,60,191,87,2015-01-15T18:18:55Z
+code-for-coffee,James,,"Chicago, IL",,false,Part time cat.,262,191,210,2012-05-20T16:40:14Z
+karlstolley,Karl Stolley,ZULIP,"Chicago, IL",karl@stolley.dev,false,"Chicagoan. Web developer & writer.
+
+Author of Programming WebRTC, now out in print with Pragmatic Programmers.",68,190,17,2009-12-21T23:14:31Z
+wseemann,William Seemann,ROKUDEV,"Chicago, Illinois",wseemann@gmail.com,true,I like maltipoos and fighting.,28,189,17,2012-09-07T02:27:45Z
+bhgames,Jordan Prince,B&J STUDIOS,"Chicago, IL",,true,,43,188,0,2010-06-27T01:32:01Z
+codersquid,Sheila Miguez,CANONICAL,Chicago,shekay+github@pobox.com,false,open science enthusiast ~ software developer ~ an under the sea code monkey,47,188,212,2010-12-19T20:24:33Z
+braintree,Braintree,,"Chicago, IL",,false,,99,186,0,2008-03-20T02:34:08Z
+dziganto,David Ziganto,,"Chicago, IL",,false,Machine Learning,13,185,1,2015-06-26T22:43:55Z
+tollmanz,Zack Tollman,CONDE NAST,"Chicago, IL",,true,,68,185,39,2011-07-18T01:31:19Z
+tomschenkjr,Tom Schenk Jr,KPMG,"Chicago, IL",,false,Director of Analytics,33,185,5,2012-04-13T04:45:07Z
+peterhurford,Peter Wildeford,RETHINKPRIORITIES,"Chicago, IL",peter@peterhurford.com,false,,79,182,8,2013-07-27T04:13:23Z
+joshgav,Josh Gavant,RED HAT,"Chicago, USA",,false,Infrastructure for all!,107,181,108,2013-05-13T21:57:32Z
+kaihoffman,Kai Hoffman,,"Chicago, IL, USA",,false,"Developer / Dev Advocate. Makers graduate. Interested in languages,  cloud-native software, UX, good documentation and developer experience",77,180,29,2018-11-13T09:30:23Z
+stevenmaguire,Steven Maguire,,"Chicago, IL",maguire@hey.com,false,I turn coffee into websites.,78,180,0,2012-06-14T21:49:03Z
+southpolesteve,Steve Faulkner,CLOUDFLARE,Chicago,,false,Engineering @cloudflare,182,177,1,2010-11-07T18:49:09Z
+zackkitzmiller,Zack Kitzmiller,,"Chicago, IL",,true,,103,175,12,2009-08-03T18:52:53Z
+kevinschaul,Kevin Schaul,THE WASHINGTON POST,Chicago,kevin.schaul@gmail.com,false,"makes graphics for the washington post, lives in chicago, wants to see your data visualizations and hear about your open source projects",112,175,103,2011-03-17T18:06:12Z
+ryanve,deepskyblue,WEBMURAL @P9E @S9A,chicago ,ryanve@gmail.com,true,"open web graffer @webmural universal imagineer @p9e hypertextual @s9a
+",243,174,254,2011-07-31T14:58:27Z
+ChrisWiegman,Chris Wiegman,SUPERFILE,"Chicago, IL",,true,"Software developer, teacher, and blogger building teams and products focused on humane and sustainable technology.",27,174,47,2010-09-10T15:00:40Z
+jkocherhans,Joseph Kocherhans,SOUNDSLICE,"Chicago, IL",,false,,12,172,44,2008-04-04T16:54:15Z
+argonne-lcf,Argonne Leadership Computing Facility - ALCF,,"Chicago, IL",,false,ALCF is a DOE Office of Science User Facility that provides leadership supercomputing resources to advance scientific research.,107,171,0,2019-07-01T15:53:35Z
+mylo-james,Mylo James,,"Chicago, IL",,false,"Full Stack Engineer 
+JavaScript, Python, React / Redux, Express, Flask, HTML5, CSS3
+    
+",57,170,82,2020-01-22T01:12:46Z
+techtorial,techtorial,TECHTORIAL,Chicago,,false,Techtorial exists to provide the opportunity to transform your life by offering training in the field of Software Test Automation Engineering.,87,169,0,2019-05-22T21:33:18Z
+ch33r10,Xena Olsen,,"Chicago, IL",,false,"Doctor of Science Cybersecurity, 8 x GIAC, MBA, & SANS Women's Academy Graduate. Opinions are my own and do not represent my employers",19,168,14,2020-06-11T21:54:22Z
+feamster,Nick Feamster,UNIVERSITY OF CHICAGO,"Chicago, Illinois",feamster@uchicago.edu,false,,25,166,3,2011-05-25T23:06:41Z
+gregjopa,Greg Jopa,,"Chicago, IL",,false,Software Engineer @PayPal,51,166,64,2010-12-23T01:30:11Z
+jeffpaul,Jeffrey Paul,10UP,"Chicago, IL",jeff.paul@10up.com,false,Director of Open Source @10up. Founder: #RaceForVets. Product management: @WordPress. Maintainer: @WPTide.,48,166,79,2012-11-17T01:01:33Z
+johnagan,John Agan,,Chicago,,false,,31,165,81,2008-11-22T06:43:32Z
+asajeffrey,Alan Jeffrey,ROBLOX,"Chicago, IL",,false,"Alan passed away in July. Software Engineer at Roblox, focusing on the Luau scripting language.",94,165,2,2010-09-16T20:20:47Z
+muratkeremozcan,Murat K Ozcan,EXTEND,Chicago,,false,"Staff Eng, Test Architect at Extend",118,165,4,2017-12-04T11:45:53Z
+skriegman,Sam Kriegman,,"Chicago, IL",,false,,26,164,37,2016-06-13T20:29:15Z
+newville,Matt Newville,UNIVERSITY OF CHICAGO,"Chicago, IL",,false,,38,164,4,2010-06-13T18:00:57Z
+karbassi,Ali Karbassi,WEALLCODE,"Chicago, USA",ali@karbassi.com,true,Seasoned Fullstack Developer. A11Y advocator. UX Engineer. Educator. Focused on DE&I and A11Y. Founder of @WeAllCode. Adjunct at @iit-idd Host of @ignitechi ,354,162,58,2008-07-21T22:20:34Z
+cooperlees,Cooper Lees,CLC,"Chicago, IL, USA",me@cooperlees.com,false,Facebook PE trying to be as async as possible.,47,159,103,2012-12-10T07:07:44Z
+dvtate,Dustin Van Tate Testa,INFORMATION SECURITY CORPORATION,Chicago,,true,Language nerd; WASM enthusiast; Arch Linux user,73,159,108,2015-10-25T02:11:38Z
+deanmalmgren,Dean Malmgren,PLANETFWD,"Chicago, IL",,false,,80,159,9,2010-04-28T11:06:07Z
+marwahaha,Kunal Marwaha,,"Chicago, IL",marwahaha@berkeley.edu,false,,1200,159,8,2012-10-12T01:30:18Z
+borjasotomayor,Borja Sotomayor,UNIVERSITY OF CHICAGO,"Chicago, IL",borja@cs.uchicago.edu,false,Senior Instructional Professor of Computer Science at @uchicago-cs ,17,159,1,2010-10-21T22:12:30Z
+bangpound,Benjamin Doherty,"ACTIVECAMPAIGN, @R-SHIEF AND OTHERS",Chicago,bjd@pobox.com,false,"Expert PHP, Drupal and Javascript developer in the Midwestern USA.",346,159,349,2008-04-11T18:29:10Z
+luisdomin5,Luis D,,"Chicago, IL ",LuisD.GitHub@gmail.com,false,"Making the World better with Technology. Helping Businesses find solutions to their problems. 
+  #Python #R#Data Analyst 
+ www.kaggle.com/luisdominguez1776
+",421,158,2005,2020-07-20T22:51:12Z
+ming024,Chung-Ming Chien,NTU-SPML-LAB,"Chicago, IL",,false,Ph.D. Student at TTIC | Speech & NLP | NTU Speech Lab.,17,157,20,2017-09-15T07:18:55Z
+adamgraham,Adam Graham,ZIGUROUS,"Chicago, IL",adam@zigurous.com,false,"Adam is a software engineer and game developer inspired by the blending of art, design, and engineering to create best in class user experiences.",21,156,5,2015-08-31T16:21:33Z
+nixpad,Nikka Padilla,GITHUB,"Chicago, IL",,false,"Rainbow Skater 
+
+🌈 ⛸ 
+",23,155,80,2011-10-06T16:23:56Z
+cr0ybot,Cory Hughart,ALPHAPARTICLECODE,"Chicago, IL",cory@coryhughart.com,false,"Proprietor of Crock of Time |
+Senior web/app developer |
+Ex-host of In The Loop WordPress podcast",58,154,25,2010-06-14T12:20:56Z
+gfredericks,Gary Fredericks,,Chicago,,false,,184,153,1,2009-10-05T19:29:59Z
+kfogel,Karl Fogel,OPENTECHSTRATEGIES,"Chicago, IL, USA",,false,,80,153,0,2010-09-15T23:41:42Z
+thereals0beit,s0beit,,"Chicago, Illinois",,false,,19,152,17,2012-05-13T11:05:19Z
+DebeshJha,Debesh Jha,NORTHWESTERN UNIVERSITY,"Chicago, USA",,false,Senior research associate working on medical image analysis using deep learning. ,90,152,69,2018-03-01T11:22:51Z
+DataSolveProblems,Jie Jenn,,"Chicago, IL",,false,"Just an average guy who love data analysis and solve business problems using Python, SQL, and Excel.",14,152,1,2018-10-23T22:01:29Z
+technobly,Brett Walach,PARTICLE @PARTICLE-IOT,"Chicago, IL",technobly@gmail.com,false,"Sr. Embedded Hardware/Software Engineer II, Hacker, Maker, Musician",105,150,8,2012-08-30T15:06:50Z
+KazukiPrzyborowski,Kazuki Suzuki Przyborowski,GAME MAKER 2K,"Chicago, Illinois",kazuki.przyborowski@gmail.com,false,,15,150,549,2008-12-25T10:19:59Z
+AgentK20,AgentK,,"Chicago, IL",,false,,55,149,3,2011-07-31T17:58:56Z
+aerosoul94,,,"Chicago, IL",,true,"Self-taught 
+Reverse Engineer / Software Developer ",19,148,16,2015-06-02T17:11:22Z
+safe-graph,SafeGraph,,"Chicago, Illinois",bdscsafegraph@gmail.com,false,Towards Secure Machine Learning on Graph Data,7,148,0,2020-04-22T02:03:20Z
+benstr,Ben Strahan,,Chicago,ben@benstrahan.com,false,,25,148,45,2013-09-14T22:10:11Z
+relativityone,Relativity ODA LLC,,"Chicago, Illinois, USA",,false,"We make e-discovery and compliance software to help people organize data, discover the truth, and act on it.",7,148,0,2017-08-21T14:55:48Z
+Aeva,Aeva & Watch Gallery 2,,Chicago,,false,"Professionally, I'm a graphics programmer and game engine developer.  But for fun, I also do graphics programming and game engine development.",89,146,33,2011-05-04T17:53:52Z
+JustinMShea,Justin M. Shea,,"Chicago, IL",,true,,48,145,188,2015-01-24T23:04:05Z
+monsur,Monsur Hossain,,"Chicago, IL",,false,,23,145,27,2009-05-07T01:34:03Z
+pyro2927,Joseph Pintozzi,EPICGAMES,"Chicago, IL",joseph@pintozzi.com,false,"Dad, husband of @epintozzi. Enjoys motorcycles 🏍️, video games 🎮, and fantasy books 📚.",140,145,107,2008-12-11T22:46:02Z
+klaeufer,Konstantin Läufer,LOYOLA UNIVERSITY CHICAGO,"Chicago, IL, USA",,true,"Computer scientist/educator: programming languages, software architecture, pervasive computing, data engineering.",85,145,259,2011-02-18T20:56:09Z
+adomokos,Attila Domokos,,"Chicago, IL",,false,,61,144,7,2009-05-03T19:18:16Z
+scollis,Scott Collis,"ARGONNE NATIONAL LABORATORY, ARM CLIMATE RESEARCH FACILITY.",Chicago,scollis.acrf@gmail.com,false,"Open source evangelist. @ARM-DOE Translator. 
+Northwestern Senior Fellow
+Wish I had more time to code.  ",248,144,2,2011-06-02T13:25:39Z
+spjeff,Jeff Jones,,"Chicago, IL",spjeff@spjeff.com,true,Always learning.  Keep coding.,57,144,24,2013-10-09T15:17:06Z
+nicholas-ochoa,Nicholas Ochoa,,"Chicago, IL",,false,,7,143,16,2009-09-13T04:29:59Z
+arelia,Arelia Jones,"GITHUB, @CODERSPACE","Chicago, IL",,true,"Software Engineer @github Education, co-founder at @CoderSpace and @promptconf, co-organizer BlackByte",69,143,12,2012-09-17T02:32:03Z
+Sc00bz,Steve Thomas,,Chicago Area,,false,,72,142,0,2012-07-24T00:23:42Z
+wimglenn,Wim Jeantine-Glenn,,Chicago,hey@wimglenn.com,false,"ℂ𝕙𝕚𝕔𝕒𝕘𝕠, 𝕀𝕃",127,142,86,2014-02-07T12:15:48Z
+datamade,datamade,,"Chicago, IL",info@datamade.us,false,"We build open source technology using open data to empower journalists, researchers, governments and advocacy organizations.",272,141,0,2013-02-28T05:03:45Z
+zekenie,Zeke Nierenberg,ONE MEDICAL,"Chicago, IL",,false,,98,141,14,2011-08-05T23:41:25Z
+PedroLopes,Pedro Lopes,UNIVERSITY OF CHICAGO,Chicago,,false,"Professor at the University of Chicago's Computer Science Department. 
+
+Runs the Human Computer Integration Lab: lab.plopes.org 
+
+Teaches HCI, VR, electroni",82,141,140,2009-02-24T19:50:46Z
+carolineartz,Caroline Artz,,"Chicago, IL",ceartz@gmail.com,true,,164,141,189,2012-11-21T04:40:15Z
+destefanis,Daniel Destefanis,DISCORD,San Francisco -> Chicago,,false,"Product designer and developer. living in SF, originally from Chicago.",36,140,1,2014-05-27T21:24:36Z
+exrlla,Ellie Popoca,CODÉDEX,"Chicago, IL",ellie@popoca.io,false,moving bytes and pieces @codedex-io ,28,140,171,2020-05-19T00:58:33Z
+robertzk,Robert Krzyzanowski,SPRINGLABS,"Chicago, IL",rkrzyzanowski@gmail.com,true,I code and I write.,165,139,64,2012-04-12T22:53:01Z
+joshbeckman,Josh Beckman,SHOPIFY,Chicago,josh@joshbeckman.org,true,Building up projects and other people,118,139,57,2012-09-16T21:36:31Z
+narcisolobo,Narciso Lobo,,Chicago,narcisolobo@gmail.com,false,,227,138,11,2018-11-07T02:25:51Z
+EricKuck,Eric Kuck,BLUELINE LABS,"Chicago, IL",eric@bluelinelabs.com,false,,28,138,0,2012-07-25T08:09:23Z
+michaelstonis,Michael Stonis,EIGHT-BOT,"Chicago, IL",,true,,76,138,3,2009-08-28T23:07:45Z
+JeffCohen,Jeff Cohen,PURPLE WORKSHOPS,"Chicago, IL",cohen.jeff@gmail.com,false,"Adjunct Assistant Professor at University of Chicago. 
+Owner of Purple Workshops, which powers SoftwareForResearch.com.",86,138,0,2008-04-22T02:31:28Z
+stephen-hoover,Stephen Hoover,PLANETLABS,Chicago,,false,Experimental-physicist-turned-data-scientist and software engineer; Python enthusiast,30,136,0,2014-08-04T20:59:52Z
+baldengineer,James Lewis,BALD ENGINEER MEDIA LLC,"Chicago, Il",,false,"Fan of making things beep, blink, and fly. AddOhms on YouTube, writer for Hackster.io, KN6FGY, and bald.",57,136,21,2011-04-09T22:20:04Z
+pcarbo,Peter Carbonetto,UNIVERSITY OF CHICAGO,"Chicago, IL",,false,"Research Assistant Prof, Human Genetics, U. Chicago; previously, Staff Scientist at Ancestry, postdoc & HFSP fellow at U. Chicago, & Ph.D. at UBC",87,136,3,2012-03-05T18:11:27Z
+sc1341,,,"Chicago, Illinois ",,false,"I changed all my passwords to 'Incorrect.' So whenever I forget, it will tell me 'Your password is incorrect' ",20,135,61,2017-11-15T01:19:15Z
+gaojunxuan,Jun Gao,,Chicago → Toronto,,false,"Windows & React Native dev | C#, C++, Python, JavaScript, Rust | Computational Biology | Theoretical CS and Algorithm Design | University of Toronto '24",56,135,176,2014-08-21T09:36:17Z
+jim,Jim Benton,DISCORD,"Chicago, IL",,false,Software engineer,56,134,35,2008-03-18T01:21:53Z
+mqudsi,Mahmoud Al-Qudsi,NEOSMART TECHNOLOGIES,"Chicago, IL",mqudsi@neosmart.net,true,,140,134,1,2011-02-08T15:03:43Z
+eigenhombre,John Jacobsen,"NPX DESIGNS, LLC","Chicago, IL",,false,"Owner of NPX Designs, LLC, a small software consultancy in Chicago. Clojure, Go, Embedded / C, Common Lisp, Emacs, Python.",129,133,53,2010-08-31T23:28:58Z
+jmercouris,John Mercouris,,Chicago,,false,,34,133,0,2012-04-30T06:46:20Z
+rathjenc,Chris Rathjen,,Chicago,,true,,4,133,7,2013-06-13T16:44:13Z
+Interbotix,Trossen Robotics (Interbotix),,"Chicago, IL",trsupport@trossenrobotics.com,false,"Educational, research, and professional level robotic development platforms.",73,132,0,2013-06-17T17:37:48Z
+patrickfuller,Patrick Fuller,LILA SCIENCES,"Chicago, IL",patrickfuller@gmail.com,false,"Product @fl97inc. Founding team member @numat. Backgrounds in chemical engineering, finance, and programming.",31,132,13,2012-02-18T19:33:32Z
+gkthiruvathukal,George K. Thiruvathukal,"LOYOLA UNIVERSITY CHICAGO, ARGONNE NATIONAL LABORATORY (ALCF)","Chicago, IL, USA, North America, Earth, ..., Universe",gthiruvathukal@luc.edu,false,"Full Professor of Computer Science and Department Chairperson, Loyola University Chicago; Visiting Computer Scientist, Argonne National Laboratory",116,131,113,2011-03-04T18:50:37Z
+chicago-joe,Joseph Loss,,"Chicago, Illinois",connect@josephjloss.com,false,"M.S. Financial Engineering, Class of 2019 University of Illinois at Urbana-Champaign",139,131,222,2017-05-18T04:33:53Z
+donthedeveloper,Don Hansen,,Greater Chicago Area,don@donthedeveloper.tv,false,Software Engineer,51,130,0,2015-12-14T03:58:16Z
+cdipaolo,Conner DiPaolo,CITADEL,"Chicago, IL",cdipaolo96@gmail.com,false,Business Manager at Citadel GQS,28,130,4,2014-10-20T22:47:22Z
+Kaushal1011,Kaushal,UNIVERSITY OF ILLINOIS CHICAGO,Chicago,,true,"An MS CS student who likes to code ordinary and unordinary. Into Programming, Music & Design.
+",74,130,78,2019-04-30T16:54:41Z
+zurmo,Zurmo - Open Source CRM,ZURMO INC.,Chicago IL,info@zurmo.org,false,,2,129,1,2011-11-08T19:14:58Z
+rmw,Rebecca Miller-Webster,,"Chicago, IL",,false,"Pug & color lover. Director of Codespaces / Copilot Workspace @github (prev Dir of Client Apps, Actions MacCloud). Founder @WriteSpeakCode",98,128,31,2010-08-13T18:54:15Z
+jvz,Matt Sicker,APPLE,Chicago,mattsicker@apache.org,false,"Computer scientist, distributed systems software engineer, and advocate for free and open source software. Developer in Log4j and Spinnaker. (he/him/his)",138,128,33,2011-05-16T15:38:08Z
+larsbergstrom,Lars Bergstrom,GOOGLE,"Chicago, IL",lars@lars.com,false,Lars Bergstrom is a Director of Engineering at Google. He works on the programming languages for the Android platform.,86,127,1,2010-11-10T14:45:38Z
+azaa1,Ahmad Ali,,"Chicago, Illinois",,false,Enthusiast and curious. ,89,127,27,2018-08-28T18:18:56Z
+hugofloresgarcia,Hugo Flores García,NORTHWESTERN UNIVERSITY,"Chicago, IL",,false,PhD candidate @interactiveaudiolab. beep boop!,43,126,32,2019-09-11T12:54:49Z
+allscriptshealthcare,Altera Digital Health,,"Chicago, IL",,false,,0,126,0,2020-02-28T21:31:03Z
+abaker,Alex Baker,BEEPER,Chicago,alex@tasks.org,true,,8,126,0,2010-03-11T21:41:22Z
+glowcoil,Micah Johnston,,"Chicago, IL",,true,,57,126,96,2009-09-25T19:58:18Z
+bitcraft,Leif Theden,,"Chicago, Illinois",,true,just another python hacker.,64,125,1,2011-01-11T02:40:40Z
+eguevara,Erick Guevara,,"Chicago, Illinois ",eguevara@github.com,false,Production Engineer @github ,39,125,32,2012-02-12T08:02:41Z
+shanesveller,Shane Sveller,,"Chicago, IL",,false,"Elixir and Kubernetes by day, Rust and amateur PLT/gamedev by night.",57,125,190,2008-02-25T17:00:28Z
+blakesmith,Blake Smith,SPROUT SOCIAL,"Chicago, IL",blakesmith0@gmail.com,false,,120,125,5,2009-01-05T19:12:46Z
+SteveMcGrath,Steven McGrath,"TENABLE, INC.","Chicago, IL",steve@mcgrath.sh,false,,47,125,9,2010-04-27T18:20:46Z
+curtgrimes,Curt Grimes,,"Chicago, IL",github@curtgrimes.com,false,,24,124,23,2012-12-14T01:48:26Z
+rudyrigot,Rudy Rigot,SALESFORCE,"Chicago, IL",rudy.rigot@gmail.com,false,Principal Eng boomerang @salesforce. Formerly @apple. Founded @holbertonschool & TechMeAbroad & While42 Chicago.,65,124,0,2011-01-07T18:12:04Z
+seanwu1105,Shuang Wu,JUMPTRADING,"Chicago, IL",seanwu1105@gmail.com,true,SWE @JumpTrading,48,123,267,2015-10-03T07:35:17Z
+michel-slm,Michel Lind,FACEBOOK,"Chicago, IL, USA",michel@michel-slm.name,true,Production Engineer at Meta,212,123,54,2009-05-17T20:58:03Z
+NicholeKing,Nichole King,,"Chicago, IL",,true,Just an artist/programmer hybrid--educating minds and drawing pretty pictures on the side.,63,121,97,2019-05-30T00:38:41Z
+bensoltoff,Benjamin Soltoff,,"Chicago, IL",soltoffbc@cornell.edu,false,,60,120,0,2013-12-18T20:47:57Z
+patrickxb,Patrick Crosby,KEYBASE @STATHAT,"Chicago, IL",,false,,44,120,9,2008-03-07T16:40:45Z
+Summair,Summair,,Chicago IL,,true,"Cloud Automation
+Web-Dev, Java, Python, .Sh, .Js, 
+DevOp tools. Use the code, share deploy!",28,119,227,2019-03-03T04:46:09Z
+gauss1181,Megan,ACTIVECAMPAIGN,"Chicago, IL",,false,,45,119,465,2012-12-04T22:27:57Z
+DavidJFelix,David J. Felix,,"Chicago, IL, USA",,true,"Developer @ Brain-CA Technologies; 
+Founder of NullServe;
+Serverless enthusiast",12,119,185,2010-05-03T19:43:27Z
+y-x-c,Yuxin Chen,UNIVERSITY OF CHICAGO,"Chicago, IL",yxchen@uchicago.edu,false,,80,118,82,2014-02-05T02:44:08Z
+chicagocomputerclasses,,CHI BRANDER INC.,"Chicago, IL",,false,,11,118,0,2015-12-28T07:04:58Z
+lukehoersten,Luke Hoersten,BITNOMIAL,"Chicago, IL",luke@hoersten.org,false,Founder & CEO of @bitnomial. Previously Partner at @AllstonTrading. Member of @chicagohaskell.,45,118,1,2008-02-24T18:38:46Z
+gennyble,genny,,~Chicago,gen@nyble.dev,true,"Rust wrangler. Enjoys processing images, parsing files, and long walks around town",48,118,67,2018-03-10T21:55:40Z
+Chicago,City of Chicago,,"Chicago, IL",developers@cityofchicago.org,false,Open source projects created by the City of Chicago. City staff can request access through developers@cityofchicago.org from their work email.,84,117,0,2011-06-08T17:59:18Z
+alainakafkes,Alaina Kafkes,"IOS @ CALM, FORMERLY MEDIUM","Chicago, IL",alainakafkes2017@u.northwestern.edu,true,,36,117,12,2015-04-17T17:29:42Z
+piemadd,Piero Maddaleni,"AMTRAKER, TRANSITSTATUS, ETC ETC","Chicago, IL",,true,"Jack of all trades, master of none.
+I program in my free time.
+Probably on a train somewhere",176,117,94,2016-10-14T22:36:16Z
+b-meson,Freddy Martinez,,Chicago,,false,"Journalist and open data, access to information and #FOIA. Previously:  @freedomofpress, security / cloud engineering, DevOps.  ",40,117,46,2012-12-21T18:35:04Z
+evbogue,Ev Bogue,,Chicago burbs,ev@evbogue.com,true,Lead developer of Bogbook.,33,117,4,2012-10-02T03:33:31Z
+coolreader18,Noa,,Madison WI/Chicago IL,coolreader18@gmail.com,false,RustPython core contributor; software engineer @clockworklabs.,231,117,20,2017-10-25T14:01:18Z
+jwieting,John Wieting,,Chicago,,false,,11,117,1,2016-01-04T22:59:52Z
+calchulus,Calvin Chu,,"Chicago, IL",,false,"Just trying to learn as much as possible ~
+UChicago '18 
+Always happy to talk about social impact, tech, & entrepreneurship",405,115,206,2015-11-26T16:09:34Z
+heitortsergent,Heitor Tashiro Sergent,GRAFANA,"Chicago, IL",heitortsergent@gmail.com,true,"Eating 🍔, drinking ☕️.",87,115,53,2010-10-20T02:32:36Z
+christophermanning,Christopher Manning,,"Chicago, IL",,false,,64,114,50,2010-05-28T04:01:21Z
+rsinger86,Robert Singer,,"Chicago, IL",robertgsinger@gmail.com,false,,15,114,9,2014-06-09T17:32:45Z
+noelrappin,Noel Rappin,1DEBIT,Chicago,noelrap@noelrappin.com,false,,58,114,0,2008-04-07T20:19:01Z
+kvnkho,Kevin Kho,,"Chicago, IL",kdykho@gmail.com,false,"Fugue Maintainer
+@fugue-project @datakind @orlmlds @Nixtla 
+Prev @PrefectHQ",25,114,3,2017-10-04T02:56:14Z
+ivanfemia,Ivan,GOOGLE,"Chicago, IL",,false,,22,114,19,2013-01-05T16:37:51Z
+SarahMAmann,Sarah Benson,,Chicago,,false,software engineer ✌️,24,113,5,2018-04-22T00:30:19Z
+zircote,Robert Allen,,"Chicago, IL",zircote@gmail.com,false,,83,112,1,2010-06-17T19:19:32Z
+sonamoo,Seho Lim,MONGODB,Chicago,limseho657424@gmail.com,true,"Software Developer at MongoDB
+",49,112,34,2015-10-24T18:09:06Z
+sleventyeleven,Michael Contino,,"Chicago, IL",,false,"Dad of Tinny Humans, Tech Nerd, CCDC/NCL/OSCP Mentor, Linux Security SME, Kubernetes Security, Random Project Starter: Linuxprivchecker, Kubernetes-Harvester",22,112,5,2013-06-05T19:21:14Z
+loucyx,Lou ✨,,"Chicago, Illinois",,true,⛧ Code Witch ⛧,5,111,129,2013-03-26T22:07:08Z
+mgrygles,Mary Grygleski,CALLIBRITY,"Chicago, IL",,false,"AI Practice Lead🤖@callibrity ::::::::::::
+Tech Advocate🥑👩‍💻@tech-portico ::::
+Java Champion🏆https://javachampions.org",65,111,46,2014-03-11T18:50:55Z
+rossb34,Ross Bennett,,"Chicago, IL",,false,,38,111,0,2013-10-28T19:37:21Z
+stamourv,Vincent St-Amour,PLT,"Chicago, IL, USA",stamourv@racket-lang.org,false,,112,111,0,2011-06-16T15:59:34Z
+alexlyp,Alex Yocom-Piatt,COMPANYZERO,"Chicago, IL",,false,,48,110,0,2013-05-09T16:01:09Z
+brianray,Brian Ray,MAVEN WAVE PARTNERS,Los Angeles | Chicago,brianhray@gmail.com,true,Global Data Science Lead @brianray,59,110,102,2011-03-18T01:48:46Z
+deanrad,Dean Radcliffe,UNITED HEALTHCARE,Chicago,,true,Engineering Manager and Senior Full-Stack Engineer,248,110,15,2008-09-13T04:17:00Z
+skirmer,Stephanie Kirmer,DATAGRAIL,Chicago,,false,Data scientist. Python. I talk a lot.,45,110,8,2015-03-23T20:22:21Z
+barelyknown,Sean Devine,XBE LLC,"Chicago, IL",sean-devine@x-b-e.com,false,Founder and CEO of XBE LLC. Our construction logistics platform is built primarily with Ruby (Rails) and JavaScript (Ember).,100,109,5,2011-03-27T18:07:49Z
+agfor,Adam Forsyth,BRAINTREE,"Chicago, IL",adam@adamforsyth.net,false,,35,109,1,2011-08-07T03:51:02Z
+rsutphin,Rhett Sutphin,"HUMAN PRACTICE, INC.","Chicago, Illinois",rhett@detailedbalance.net,false,,48,109,47,2008-03-07T15:24:26Z
+ksolo,Kevin Solorio,PROVI,"Chicago, IL",,false,,117,108,73,2009-07-11T05:17:10Z
+snowgy,Yue Gong,,"Chicago, USA",yvetteyue1998@outlook.com,false,PhD student @uchicago,30,108,48,2016-10-10T13:35:42Z
+defaultxr,modula t.,,"Chicago, IL",,true,,78,108,72,2011-02-05T05:28:25Z
+andymboyle,Andy Boyle,ENGINEERING LEADER @ STARTUPS,"Chicago, IL",,true,I write code and words for fun and profit.,36,108,7,2010-12-04T01:17:13Z
+jdoss,Joe Doss,HTTPS://WWW.SMALLSTEP.COM/,"Chicago, IL",,false,Fedora Linux user. Passionate about enabling others to improve their lives with FOSS. ,53,107,86,2008-04-22T18:11:24Z
+SpezialK71,Kurt,,Chicago,,false,,21,107,261,2023-04-10T15:11:58Z
+shonumi,D. S. Baxter,,"Chicago, IL",shonumi@gmail.com,false,,10,107,3,2014-04-27T05:08:15Z
+maggiewolff,Maggie Wolff,,"Chicago, IL",,false,Data Scientist Product Analytics,9,107,29,2018-06-07T21:41:28Z
+stevepopovich,Steven Popovich,GITHUB,"Chicago, IL",stevepopovich8@gmail.com,false,Hubber. Developer. Teammate. Bread Acquirer. ,26,107,47,2013-01-12T14:59:50Z
+anthonyleezhang,Anthony Lee Zhang,,"Chicago, IL",anthonyzhang0@gmail.com,false,I study markets,7,107,6,2014-08-20T13:42:50Z
+daisyUniverse,Daisy Universe,ELGIN COMMUNITY COLLEGE,"Chicago, IL",mail@robinuniver.se,true,☆ Welcome to the department of fuck around and find out,58,107,58,2015-05-25T22:16:17Z
+maxmiller413,Max Miller,FULL-STACK SOFTWARE ENGINEERING,"Chicago, IL",maxmiller413@gmail.com,true,Full-Stack Software Engineering,207,107,547,2020-11-21T17:15:31Z
+glitchfur,Glitch,,"Chicago, IL",,false,,10,106,85,2015-09-06T08:57:40Z
+meltingscales,meltingscales,,Chicago,,false,"Grad of IIT, Chicagoan. Go buy @flexadecimal car parts.
+Strong self-taught/school prowess in Java, Python, SQL, Linux.",336,106,301,2013-01-10T15:39:20Z
+wmurphyrd,Will Murphy,IMMERS-SPACE,"Chicago, IL",william@immers.space,false,"WebXR dev. Frame & Hubs contributor. A syndic of Immers Space, a co-op making free software for a federated metaverse. Available for freelance work.",63,106,26,2014-12-01T18:18:13Z
+CodyNicholson,Cody Nicholson,,"Chicago, IL",codynicholson96@gmail.com,true,I am a Software Engineer and this is an encyclopedia of all my skills,158,106,88,2015-04-25T23:37:47Z
+mgrover1,Max Grover,ARGONNE NATIONAL LABORATORY,"Chicago, IL",mgroverwx@gmail.com,false,"Software Developer @ARM-DOE
+
+Former @NCAR @Unidata",198,105,74,2017-03-24T20:10:53Z
+KovasMcCann,Kovas McCann,,"Chicago, IL",,true,31337 H4XØR,10,105,9,2018-10-18T23:03:38Z
+csantiago132,Carlos Santiago,KUROCADO-STUDIO,Chicago,,true,,23,104,48,2013-10-19T19:19:03Z
+jaku,Matt Jakubowski,,"Chicago, IL",jaku@hax.by,false,"Neque dicas, quid neque.",49,104,0,2009-07-06T16:21:59Z
+AbrarSyed,Abrar Syed,,"Chicago, IL, USA",,false,Did lots of MineCraft mod development until around 2016,17,104,3,2010-12-15T01:32:02Z
+juneau001,Josh Juneau,,"Chicago, IL",,false,,63,104,12,2009-08-30T01:37:46Z
+alycit,Alyssa Diaz,,"Chicago, IL",alydiaz77@gmail.com,false,,50,104,25,2010-10-14T21:09:28Z
+mstratman,Mark A. Stratman,,Chicago,stratman@gmail.com,false,,65,103,0,2010-06-29T16:08:38Z
+CaryLandholt,Cary Landholt,STRIDEKICK,Chicago,cary@landholt.com,false,,23,103,7,2011-06-07T00:26:37Z
+knagaitsev,Kirill Nagaitsev,NORTHWESTERN UNIVERSITY,Chicago,,true,PhD student at Northwestern. Previously worked on funcX @uchicago. GSoC 2019 @webpack graduate and past webpack-dev-server maintainer. Web game dev enthusiast,86,103,9,2016-10-02T21:37:35Z
+omargfh,Omar Ibrahim,UNIVERSITY OF CHICAGO,"Chicago, IL",,false,"Software developer, UI designer, and tech hobbyist currently studying computer science and economics at The University of Chicago",54,103,73,2019-06-06T20:50:19Z
+RonaldColyar,Ronald Colyar,,"Chicago, Illinois",,false,Passionate Engineer. It's art!!,51,103,83,2018-01-08T01:52:23Z
+erichilarysmithsr,Eric Hilary Smith,MATH 4 YOU BY US GROUP ILLINOIS,Chicago,erichilarysmithsr@gmail.com,true,"Hello, everyone welcome to Github.",579,102,757,2013-09-24T15:40:42Z
+luoyuanlab,Luo Lab at Northwestern University,"DEPARTMENT OF PREVENTIVE MEDICINE, DIVISION OF HEALTH & BIOMEDICAL INFORMATICS AT FEINBERG SCHOOL OF MEDICINE IN NORTHWESTERN UNIVERSITY",Chicago,,false,"Luo Lab at Northwestern University. Interests: machine learning, natural language processing, integrative genomics, computational phenotyping",21,102,0,2011-07-01T15:09:05Z
+jfnavarro21,John Navarro-DEN,MCKINSEY & COMPANY,Chicago,,true,Data science consultant,26,102,3,2016-01-12T15:52:13Z
+rlk,Robert Kooima,,Chicago,,false,,33,102,10,2009-05-26T14:10:05Z
+3CloudSolutions,3Cloud,,Chicago,,false,"Make the cloud work for you with our Azure consulting services. With a 100% focus on Azure, our experts deliver to you the ultimate Azure experience.",6,102,0,2017-03-07T22:32:47Z
+scottferg,Scott Ferguson,NUMERATOR/INFOSCOUT,"Chicago, IL",,false,,66,101,46,2009-04-16T03:45:47Z
+cwarden,Christian G. Warden,OCTOBERSWIMMER,"Chicago, IL",cwarden@xerus.org,true,"Salesforce Development Professional/Linux Aficionado/Economics Dilettante. 
+
+Principal, @octoberswimmer.",261,100,129,2010-09-03T22:16:37Z
+nadrane,Nicholas Drane,STAFF ENGINEER,"Chicago, IL",nicholasDrane@gmail.com,true,,64,100,1,2012-04-11T23:56:43Z
+rogeruiz,Roger Steve Ruiz,SKYLIGHT-HQ,Chicago,hi@rog.gr,true,"🎶 soy un in-ge-niero. I'm a computer, baby. so, why don't you 01100010 01110101 01101001 01101100 01100100 me 🎶",199,100,293,2011-04-02T22:38:41Z
+gwenwindflower,winnie,DBT-LABS,chicago,,false,𝒹𝒶𝓉𝒶 𝒸♡𝓌𝑔𝒾𝓇𝓁,15,100,288,2021-10-05T23:39:53Z
+jebeck,Jana Beck,NETFLIX,"Chicago, IL",,false,Dataviz eng @netflix.,32,100,0,2012-03-29T21:17:59Z
+CodeRaptor92,Andrew,,Chicago,,false,I'm actually starting in programming and these stuff rn so idk how to do anything,6,100,172,2023-09-08T01:54:23Z
